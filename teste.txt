@@ -3,3 +3,5 @@ Testando repo modifiquei
 Teste para função fetch
 
 Teste função fetch, mesmo branch e outro repo
+
+Teste da função diff
